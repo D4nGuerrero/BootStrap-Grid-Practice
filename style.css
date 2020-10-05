@@ -53,3 +53,10 @@
   min-height: 75px;
   background-color: rgb(242, 224, 122);
 }
+
+#instructions {
+	margin-top:20px;
+	width:500px;
+	font-size: 20px;
+	
+}
